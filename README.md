@@ -71,12 +71,13 @@ This file controls the bot’s behavior. Below is an example configuration:
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
-  "delayEachAccount": [5, 8],
+  "delayEachAccount": [1, 81],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
+  "howManyAccountsRunInOneTime": 10,
   "doTasks": true,
   "playGames": true,
-  "howManySnakeGames": 999999
+  "howManySnakeGames": 10000,
+  "howManyNodeYouWantToBuy": 1
 }
 ```
 
@@ -91,6 +92,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `doTasks`: Enable task completion.
   - `playGames`: Enable game-playing feature.
   - `howManySnakeGames`: Number of games to play.
+  - `howManyNodeYouWantToBuy`: Number of nodes to buy.
 
 ### 2. `datas.txt` - 🗂️ User Data
 
