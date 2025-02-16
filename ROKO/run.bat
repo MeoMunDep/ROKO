@@ -64,7 +64,8 @@ if not exist configs.json (
     echo   "howManyAccountsRunInOneTime": 100,>> configs.json
     echo   "doTasks": true,>> configs.json
     echo   "playGames": true,>> configs.json
-    echo   "howManySnakeGames": 9999>> configs.json
+    echo   "howManySnakeGames": 9999,>> configs.json
+    echo   "howManyNodeYouWantToBuy": 9999>> configs.json
     echo }>> configs.json
     echo Created configs.json
 )
