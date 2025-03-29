@@ -9,5 +9,5 @@
   "doTasks": true,
   "playGames": true,
   "howManySnakeGames": 10000,
-  "howManyNodeYouWantToBuy": 1
+  "howManyNodeYouWantToBuy": 1000
 }
