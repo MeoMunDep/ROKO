@@ -7,7 +7,8 @@
   "howManyAccountsRunInOneTime": 10,
   "doTasks": true,
   "playGames": true,
-  "howManySnakeGames": 10000,
+  "howManySnakeGames": 10,
   "howManyNodeYouWantToBuy": 1000
 }
+
 
