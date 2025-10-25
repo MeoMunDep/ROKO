@@ -1,5 +1,4 @@
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -11,3 +10,4 @@
   "howManySnakeGames": 10000,
   "howManyNodeYouWantToBuy": 1000
 }
+
